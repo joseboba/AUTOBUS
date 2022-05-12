@@ -1,0 +1,13 @@
+D:\UMG\3er semestre\Programacion 1\autobus\autobus\bin\Debug\autobus.exe.config
+D:\UMG\3er semestre\Programacion 1\autobus\autobus\bin\Debug\autobus.exe
+D:\UMG\3er semestre\Programacion 1\autobus\autobus\bin\Debug\autobus.pdb
+D:\UMG\3er semestre\Programacion 1\autobus\autobus\obj\Debug\autobus.csproj.AssemblyReference.cache
+D:\UMG\3er semestre\Programacion 1\autobus\autobus\obj\Debug\autobus.csproj.SuggestedBindingRedirects.cache
+D:\UMG\3er semestre\Programacion 1\autobus\autobus\obj\Debug\autobus.csVector.resources
+D:\UMG\3er semestre\Programacion 1\autobus\autobus\obj\Debug\autobus.Form1.resources
+D:\UMG\3er semestre\Programacion 1\autobus\autobus\obj\Debug\autobus.Properties.Resources.resources
+D:\UMG\3er semestre\Programacion 1\autobus\autobus\obj\Debug\autobus.csproj.GenerateResource.cache
+D:\UMG\3er semestre\Programacion 1\autobus\autobus\obj\Debug\autobus.csproj.CoreCompileInputs.cache
+D:\UMG\3er semestre\Programacion 1\autobus\autobus\obj\Debug\autobus.exe
+D:\UMG\3er semestre\Programacion 1\autobus\autobus\obj\Debug\autobus.pdb
+D:\UMG\3er semestre\Programacion 1\autobus\autobus\obj\Debug\autobus.csMatriz.resources

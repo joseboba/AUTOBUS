@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22bae43d-4dd3-4b37-a37e-155c547bf2ae": {
+      "ProjectGuid": "22bae43d-4dd3-4b37-a37e-155c547bf2ae",
+      "DisplayName": "autobus",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
